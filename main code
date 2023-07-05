@@ -1,0 +1,2 @@
+import pandas as pd
+hosp = pd.read_csv('hospital names - Sheet(1).csv')
